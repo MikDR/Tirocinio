@@ -38,3 +38,13 @@ Percentuale di accettati (non controllo tutte le righe, mi fermo alle 13 prime c
 Durata media dell'ordinamento su base righe con tutte le colonne: 0.007411987199884606ms
 Durata media dell'ordinamento su base righe con meno colonne: 0.0073852588000590915ms
 
+Qui c'è il limite colonne a: 10
+Tempo esecuzione medio: 97.89541437639625 ms
+Numero medio di swap righe: 109.4992
+Numero medio di swap colonne: 109.4096
+Numero medio di confronti tra le righe in una matrice: 20528.5872
+Numero medio di confronti con meno colonne: 18769.2392
+Percentuale di accettati (non controllo tutte le righe, mi fermo alle 10 prime colonne): 87.56%
+Durata media dell'ordinamento su base righe con tutte le colonne (ho diviso per il numero di test positivi): 0.006904165829301464ms
+Durata media dell'ordinamento su base righe con meno colonne (ho diviso per il numero di test positivi): 0.006963626313349847ms
+
