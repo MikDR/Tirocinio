@@ -1,3 +1,30 @@
+Qui c'è il limite colonne a: 9
+Tempo esecuzione con tutte colonne: 211627.8595360329 ms
+Tempo esecuzione con 9 colonne: 205398.2684459989 ms
+Numero operazioni con tutte colonne: 14351904
+Numero operazioni con 9 colonne: 1017195
+P-value per operazioni: 0.0
+P-value per tempi: 0.0006204282026391143
+Percentuale test positivi (tutte colonne = meno colonne): 0.904%
+
+Qui c'è il limite colonne a: 10
+Tempo esecuzione con tutte colonne: 194889.13374192838 ms
+Tempo esecuzione con 10 colonne: 191373.96148998034 ms
+Numero operazioni con tutte colonne: 15447348
+Numero operazioni con 10 colonne: 1216758
+P-value per operazioni: 0.0
+P-value per tempi: 0.10221930448407827
+Percentuale test positivi (tutte colonne = meno colonne): 0.973%
+
+Qui c'è il limite colonne a: 11
+Tempo esecuzione con tutte colonne: 179350.2639340075 ms
+Tempo esecuzione con 11 colonne: 175587.63746799732 ms
+Numero operazioni con tutte colonne: 15780744
+Numero operazioni con 11 colonne: 1366225
+P-value per operazioni: 0.0
+P-value per tempi: 0.034944575357662086
+Percentuale test positivi (tutte colonne = meno colonne): 0.994%
+
 Qui c'è il limite colonne a: 12
 Tempo esecuzione con tutte colonne: 277884.62911099306 ms
 Tempo esecuzione con 12 colonne: 275547.69489398744 ms
