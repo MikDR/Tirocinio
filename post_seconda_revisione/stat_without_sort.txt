@@ -34,3 +34,12 @@ P-value per operazioni: 0.0
 P-value per tempi: 0.676620804625512
 Percentuale test positivi (tutte colonne = meno colonne): 0.996%
 
+Qui c'è il limite colonne a: 12
+Tempo esecuzione con tutte colonne: 163614.89201594458 ms
+Tempo esecuzione con 12 colonne: 158644.2312039819 ms
+Numero operazioni con tutte colonne: 15796620
+Numero operazioni con 12 colonne: 1493800
+P-value per operazioni: 0.0
+P-value per tempi: 0.09682440321731127
+Percentuale test positivi (tutte colonne = meno colonne): 0.995%
+
