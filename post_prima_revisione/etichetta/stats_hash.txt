@@ -1,28 +1,7 @@
-Numero iterazioni: 2000
-Tempo esecuzione medio: 8.443160767516474 ms
-Tempo hash medio: 0.21915800100032357 ms
-Numero medio di swap righe: 124.9355
-Numero medio di swap colonne: 124.986
-Percentuale di accettati: 100.0%
-
-Numero iterazioni: 3000
-Tempo esecuzione medio: 4.0564868836624255 ms
-Tempo hash medio: 0.06854480033477255 ms
-Numero medio di swap righe: 125.028
-Numero medio di swap colonne: 125.015
-Percentuale di accettati: 100.0%
-
-Numero iterazioni: 4000
-Tempo esecuzione medio: 5.116742317762601 ms
-Tempo hash medio: 0.10909651249812669 ms
-Numero medio di swap righe: 125.008
-Numero medio di swap colonne: 125.01525
-Percentuale di accettati: 100.0%
-
-Numero iterazioni: 5000
-Tempo esecuzione medio: 7.909884356391013 ms
-Tempo hash medio: 0.1884184693915813 ms
-Numero medio di swap righe: 125.0026
-Numero medio di swap colonne: 125.0148
+Numero iterazioni: 1000
+Tempo esecuzione medio: 13.02970015900155 ms
+Tempo hash medio: 9.083381245003693 ms
+Numero medio di swap righe: 125.006
+Numero medio di swap colonne: 125.009
 Percentuale di accettati: 100.0%
 
