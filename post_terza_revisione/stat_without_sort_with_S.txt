@@ -1,0 +1,18 @@
+Qui c'è il limite colonne a: 11 file 5
+Tempo esecuzione con tutte colonne: 1145.3330560198083 ms
+Tempo esecuzione con 11 colonne: 996.5781339815294 ms
+Numero operazioni con tutte colonne: 0
+Numero operazioni con 11 colonne: 0
+P-value per operazioni: nan
+P-value per tempi: 0.048248615353994155
+Percentuale test positivi (tutte colonne = meno colonne): 0.986%
+
+Qui c'è il limite colonne a: 12 file 5
+Tempo esecuzione con tutte colonne: 1660.7585630299582 ms
+Tempo esecuzione con 12 colonne: 1415.6783790058398 ms
+Numero operazioni con tutte colonne: 0
+Numero operazioni con 12 colonne: 0
+P-value per operazioni: nan
+P-value per tempi: 0.21489119107636037
+Percentuale test positivi (tutte colonne = meno colonne): 0.994%
+

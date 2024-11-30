@@ -1,0 +1,36 @@
+Qui c'è il limite colonne a: 11 file 4
+Tempo esecuzione con tutte colonne: 8832.377418995047 ms
+Tempo esecuzione con 11 colonne: 8016.39252899497 ms
+Numero operazioni con tutte colonne: 0
+Numero operazioni con 11 colonne: 0
+P-value per operazioni: nan
+P-value per tempi: 0.028134046462981035
+Percentuale test positivi (tutte colonne = meno colonne): 0.9776%
+
+Qui c'è il limite colonne a: 12 file 4
+Tempo esecuzione con tutte colonne: 10198.93017399883 ms
+Tempo esecuzione con 12 colonne: 9515.452782998182 ms
+Numero operazioni con tutte colonne: 0
+Numero operazioni con 12 colonne: 0
+P-value per operazioni: nan
+P-value per tempi: 0.10266077135306648
+Percentuale test positivi (tutte colonne = meno colonne): 0.9956%
+
+Qui c'è il limite colonne a: 11 file 4
+Tempo esecuzione con tutte colonne: 14482.46043994368 ms
+Tempo esecuzione con 11 colonne: 12095.461283935947 ms
+Numero operazioni con tutte colonne: 0
+Numero operazioni con 11 colonne: 0
+P-value per operazioni: nan
+P-value per tempi: 0.0024260016979904854
+Percentuale test positivi (tutte colonne = meno colonne): 0.9798%
+
+Qui c'è il limite colonne a: 12 file 4
+Tempo esecuzione con tutte colonne: 10164.474601097027 ms
+Tempo esecuzione con 12 colonne: 8687.022650099607 ms
+Numero operazioni con tutte colonne: 0
+Numero operazioni con 12 colonne: 0
+P-value per operazioni: nan
+P-value per tempi: 0.009221003505360115
+Percentuale test positivi (tutte colonne = meno colonne): 0.9962%
+

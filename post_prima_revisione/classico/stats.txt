@@ -1,29 +1,26 @@
+Qui c'è il limite colonne a: 10 (con metodo ottimizzato)
+Tempo esecuzione medio: 15.158078339000438 ms
+Percentuale di accettati (non controllo tutte le righe, mi fermo alle 10 prime colonne): 91.9%
+Durata media dell'ordinamento su base righe con tutte le colonne: 0.003094076169742866 ms
+Durata media dell'ordinamento su base righe con meno colonne: 0.003493369967399401 ms
+Per il t-test tra tempi di esecuzione (interi) e tempi esecuzione con solo 10 colonne, p-value = 0.19528216601424145
+
 Qui c'è il limite colonne a: 11 (con metodo ottimizzato)
-Tempo esecuzione medio: 25.33214247099022 ms
-Numero medio di swap righe: 121.82
-Numero medio di swap colonne: 121.853
-Numero medio di confronti tra le righe in una matrice: 0.0
-Numero medio di confronti con meno colonne: 0.0
-Percentuale di accettati (non controllo tutte le righe, mi fermo alle 11 prime colonne): 97.5%
-Durata media dell'ordinamento su base righe con tutte le colonne: 0.0016069405132722564 ms
-Durata media dell'ordinamento su base righe con meno colonne: 0.0012243241032522817 ms
-Per il t-test tra confronti (interi) e confronti con solo 11 colonne, p-value = nan
+Tempo esecuzione medio: 24.20978364299864 ms
+Percentuale di accettati (non controllo tutte le righe, mi fermo alle 11 prime colonne): 97.8%
+Durata media dell'ordinamento su base righe con tutte le colonne: 0.0025096247445022166 ms
+Durata media dell'ordinamento su base righe con meno colonne: 0.002622634969313166 ms
+Per il t-test tra tempi di esecuzione (interi) e tempi esecuzione con solo 11 colonne, p-value = 0.034041741423330066
 
 Qui c'è il limite colonne a: 12 (con metodo ottimizzato)
-Tempo esecuzione medio: 12.95758224102974 ms
-Numero medio di swap righe: 124.116
-Numero medio di swap colonne: 124.105
-Numero medio di confronti tra le righe in una matrice: 0.0
-Numero medio di confronti con meno colonne: 0.0
-Percentuale di accettati (non controllo tutte le righe, mi fermo alle 12 prime colonne): 99.3%
-Durata media dell'ordinamento su base righe con tutte le colonne: 0.0019151027190270633 ms
-Durata media dell'ordinamento su base righe con meno colonne: 0.0010081722052173604 ms
-Per il t-test tra confronti (interi) e confronti con solo 12 colonne, p-value = nan
+Tempo esecuzione medio: 25.563047166005152 ms
+Percentuale di accettati (non controllo tutte le righe, mi fermo alle 12 prime colonne): 99.2%
+Durata media dell'ordinamento su base righe con tutte le colonne: 0.007836651209592834 ms
+Durata media dell'ordinamento su base righe con meno colonne: 0.0014980544353105165 ms
+Per il t-test tra tempi di esecuzione (interi) e tempi esecuzione con solo 12 colonne, p-value = 0.010666900499028048
 
 Qui c'è il limite colonne a: 11 (non ottimizzato)
 Tempo esecuzione medio: 168.03955572600006 ms
-Numero medio di swap righe: 120.281
-Numero medio di swap colonne: 120.227
 Numero medio di confronti tra le righe in una matrice: 20492.864
 Numero medio di confronti con meno colonne: 19978.53
 Percentuale di accettati (non controllo tutte le righe, mi fermo alle 11 prime colonne): 96.2%
@@ -33,8 +30,6 @@ Per il t-test tra confronti (interi) e confronti con solo 11 colonne, p-value = 
 
 Qui c'è il limite colonne a: 12 (non ottimizzato)
 Tempo esecuzione medio: 152.59171530099945 ms
-Numero medio di swap righe: 123.49
-Numero medio di swap colonne: 123.482
 Numero medio di confronti tra le righe in una matrice: 20532.087
 Numero medio di confronti con meno colonne: 20351.119
 Percentuale di accettati (non controllo tutte le righe, mi fermo alle 12 prime colonne): 98.8%
